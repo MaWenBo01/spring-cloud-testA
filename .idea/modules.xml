@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-erueka1/spring-cloud-erueka01.iml" filepath="$PROJECT_DIR$/spring-cloud-erueka1/spring-cloud-erueka01.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-erueka2/spring-cloud-erueka2.iml" filepath="$PROJECT_DIR$/spring-cloud-erueka2/spring-cloud-erueka2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-erueka3/spring-cloud-erueka3.iml" filepath="$PROJECT_DIR$/spring-cloud-erueka3/spring-cloud-erueka3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-feign1/spring-cloud-feign1.iml" filepath="$PROJECT_DIR$/spring-cloud-feign1/spring-cloud-feign1.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent.iml" filepath="$PROJECT_DIR$/spring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-ribbon2/spring-cloud-ribbon2.iml" filepath="$PROJECT_DIR$/spring-cloud-ribbon2/spring-cloud-ribbon2.iml" />
     </modules>
   </component>
 </project>

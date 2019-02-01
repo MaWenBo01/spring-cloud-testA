@@ -10,7 +10,8 @@
         <module name="spring-cloud-erueka01" />
         <module name="spring-cloud-erueka2" />
         <module name="spring-cloud-erueka3" />
-        <module name="spring-cloud-parent" />
+        <module name="spring-cloud-feign1" />
+        <module name="spring-cloud-ribbon2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,7 +19,11 @@
       <module name="spring-cloud-erueka01" target="1.8" />
       <module name="spring-cloud-erueka2" target="1.8" />
       <module name="spring-cloud-erueka3" target="1.8" />
+      <module name="spring-cloud-feign1" target="1.8" />
       <module name="spring-cloud-parent" target="1.5" />
+      <module name="spring-cloud-ribbon1" target="1.8" />
+      <module name="spring-cloud-ribbon2" target="1.8" />
+      <module name="spring-cloud-starter-ribbon" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -30,4 +30,13 @@ public class UserController {
         return "服务提供者client:"+name+"服务端口:"+port;
 
     }
+
+    @RequestMapping("/hellos")
+    public String greets(){
+        // ServiceInstance instance=discoveryClient.getLocalServiceInstance();
+        // 打印服务相关内容
+        //logger.info("/hello,host:"+instance.getHost()+"service_id:"+instance.getServiceId());
+        return "服务提供者client:服务端口:"+port;
+
+    }
 }
