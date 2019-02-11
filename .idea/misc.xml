@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-ribbon1/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-feign1/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-ribbon2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-getway1/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.cloud:spring-cloud-starter-openfeign:1.4.7.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/1.4.7.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-1.4.7.BUILD-20190131.234351-837.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/1.4.7.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-1.4.7.BUILD-20190211.024347-918.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/1.4.7.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-1.4.7.BUILD-20190131.234351-837-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/1.4.7.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-1.4.7.BUILD-20190211.024347-918-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/1.4.7.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-1.4.7.BUILD-20190131.234351-837-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-openfeign/1.4.7.BUILD-SNAPSHOT/spring-cloud-starter-openfeign-1.4.7.BUILD-20190211.024347-918-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

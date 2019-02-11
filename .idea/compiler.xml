@@ -11,6 +11,7 @@
         <module name="spring-cloud-erueka2" />
         <module name="spring-cloud-erueka3" />
         <module name="spring-cloud-feign1" />
+        <module name="spring-cloud-getway1" />
         <module name="spring-cloud-ribbon2" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="spring-cloud-erueka2" target="1.8" />
       <module name="spring-cloud-erueka3" target="1.8" />
       <module name="spring-cloud-feign1" target="1.8" />
+      <module name="spring-cloud-getway1" target="1.8" />
       <module name="spring-cloud-parent" target="1.5" />
       <module name="spring-cloud-ribbon1" target="1.8" />
       <module name="spring-cloud-ribbon2" target="1.8" />
