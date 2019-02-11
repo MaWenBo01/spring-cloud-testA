@@ -57,7 +57,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-cloud-erueka1/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
+            <state relative-caret-position="151">
               <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
               <folding />
             </state>
@@ -119,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-cloud-erueka1/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-erueka1/src/main/resources/spring-cloud-server.properties" />
         <option value="$PROJECT_DIR$/spring-cloud-erueka2/src/main/java/com/mwb/SpringCloudErueka2Application.java" />
         <option value="$PROJECT_DIR$/spring-cloud-erueka1/src/main/java/com/mwb/SpringCloudErueka01Application.java" />
@@ -144,6 +143,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-getway1/src/main/java/com/mwb/SpringCloudGetway1Application.java" />
         <option value="$PROJECT_DIR$/spring-cloud-getway1/src/main/java/com/mwb/controller/LoginController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-getway1/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-erueka1/pom.xml" />
       </list>
     </option>
   </component>
@@ -1113,12 +1113,20 @@
       <workItem from="1548895732465" duration="16761000" />
       <workItem from="1548982543353" duration="12430000" />
       <workItem from="1549000009671" duration="1461000" />
-      <workItem from="1549844563007" duration="10035000" />
+      <workItem from="1549844563007" duration="10439000" />
     </task>
+    <task id="LOCAL-00001" summary="工作空间">
+      <created>1549863538976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549863538976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41296000" />
+    <option name="totallyTimeSpent" value="41700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="369" y="0" width="947" height="728" extended-state="0" />
@@ -1163,6 +1171,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="工作空间" />
+    <option name="LAST_COMMIT_MESSAGE" value="工作空间" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1488,7 +1500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-erueka1/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="151">
           <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
           <folding />
         </state>
